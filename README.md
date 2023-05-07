@@ -1,14 +1,1 @@
-![SVDEVLOGO](https://user-images.githubusercontent.com/94058192/236700939-fdb1fd0f-6ded-4db1-93a3-c1e07744afb0.png) 
-cele@italy
-----------
-Uptime: "20 years"
-Position: "Mirandola, Modena, Italy"
-Languages: ["Python", "C", "C++", "Kotlin"]
-OS: "Arch Linux"
-Editor: "VSCodium"
-Hobbies: ["Hip Hop", "Football", "Gaming"]
-Other: "2021 OII finalist (Olimpiadi Italiane di Informatica)"
-contacts
---------
-Email: "alessiocelentano2003@gmail.com"
-Reddit: "u/alessiocelentano"
+https://camo.githubusercontent.com/bfffd8a4eabf78d496a40ef255c8ca8a82091d3fa1b55dcad3f5c9c61983a10b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d616c657373696f63656c656e74616e6f2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d7265616374
